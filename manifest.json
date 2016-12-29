@@ -3,7 +3,7 @@
 
     "name": "fail-finder",
     "description": "This extension will check the web page for failures and errors",
-    "version": "1.0",
+    "version": "1.1",
 
     "background" : {
         "scripts": [
